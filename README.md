@@ -80,6 +80,3 @@ Sections are independent of each other and can be run in any order.
 If you use this code, please cite the manuscript above and this
 repository's Zenodo record: **[DOI to be added]**.
 
-## License
-
-[choose a license, e.g. MIT — add LICENSE file]
